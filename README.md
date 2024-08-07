@@ -8,7 +8,8 @@ This project showcases my work on SQL queries and data handling within a protect
 
 Every year, Skatteetaten delivers extensive company financial data to SSB. This data is characterized by its high dimensionality and nested schema, making direct analysis and processing challenging. An example of this nested structure can be seen in the **'naeringsspesifikasjon_2023_prod'** dataset. The primary task is to flatten, clean, and store this data efficiently, ensuring it is easily queryable for subsequent statistical analysis.
 
-<img width="497" alt="image" src="https://github.com/user-attachments/assets/155cb5bc-f939-474f-b478-0294b6e96b99"<br><br>
+<img width="498" alt="image" src="https://github.com/user-attachments/assets/a50177c7-be15-473f-840b-71785d5d2c17">
+
 
 
 ## Solution
